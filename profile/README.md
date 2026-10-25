@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://orgolabs.github.io/camphor-reduction/brand/orgolabs-wordmark.png" alt="orgolabs" width="340">
+  <img src="https://orgolabs.github.io/shared/brand/orgolabs-wordmark.png" alt="orgolabs — organic chemistry labs" width="340">
 </p>
 
 <p align="center">
